@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**jallsop2/jallsop2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on modelling Airbnb's property listing dataset.
 
-Here are some ideas to get you started:
+- 🎓 Graduate of Mathematics from the University of Cambridge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Studying Data Science and Machine Learning at AiCore.
+
+
+LinkedIn - [www.linkedin.com/in/jonathan-allsop](https://www.linkedin.com/in/jonathan-allsop-b3a939246/)
+
+Email    - jonathanallsop2@gmail.com
+
+
