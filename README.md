@@ -4,7 +4,7 @@
 
 - 🎓 Graduate of Mathematics from the University of Cambridge.
 
-- 📖 Studying Data Science and Machine Learning at AiCore.
+- 📖 Studied Data Science and Machine Learning at AiCore.
 
 
 LinkedIn - [www.linkedin.com/in/jonathan-allsop](https://www.linkedin.com/in/jonathan-allsop-b3a939246/)
